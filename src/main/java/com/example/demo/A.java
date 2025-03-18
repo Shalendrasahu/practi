@@ -5,6 +5,8 @@ public class A {
         System.out.println("A method");
     }
     public void main(){
+        int x=100;
+        int y=100;
           System.out.println("B method");
     }
     }
