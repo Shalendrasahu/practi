@@ -7,6 +7,7 @@ public class A {
     public void main(){
         int x=100;
         int y=100;
+        int a=3;
         if(x>y){
             System.out.println(x);
         }
