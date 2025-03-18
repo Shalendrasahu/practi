@@ -8,6 +8,7 @@ public class A {
         int x=100;
         int y=100;
         int a=3;
+        int z=10;
         if(x>y){
             System.out.println(x);
         }
